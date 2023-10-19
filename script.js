@@ -1,4 +1,4 @@
-const endDate = "21 sep 2022 10:00 PM";
+const endDate = "21 sep 2050 10:00 PM";
 
 document.getElementById("end-date").innerText = endDate;
 const input = document.querySelectorAll("input");
